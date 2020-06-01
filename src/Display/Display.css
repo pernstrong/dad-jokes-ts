@@ -1,0 +1,9 @@
+.display {
+    height: 25vh;
+}
+
+p {
+    text-align: center;
+    font-size: 2rem;
+    margin: 0 1%;
+}
